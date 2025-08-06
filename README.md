@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yathartha Shrestha</h1>
+<h1 align="center">Sthaizen here 🔥!</h1>
 
 
 
@@ -7,7 +7,17 @@
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/b4a7dbb7-2e7d-4f9d-8954-223cc94468c1)
 
 </div>
+
+</h1>
+<h2 align="center">❂ I am Yathartha Shrestha</h2>
+<h4 align="left">🌟Aspiring front-end developer with knowledge of UI/UX design and currently learning React. I’m eager to improve
+my teamwork and communication skills while gaining real-world experience. My goal is to become a skilled full
+stack developer and help build useful, user-friendly digital products. This opportunity is a great chance for me to
+learn from real experience.</h4>
+
 <br>
+
+ 
 
 
 <h3 align="center">🌱 Github Status</h3>
@@ -70,14 +80,9 @@
 
 
 
-<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-
-
-
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
 <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <p align="center">
 <h3 align="center"> Connect with me:</h3>
