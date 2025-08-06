@@ -13,7 +13,7 @@
 <h2 align="center">❂ I am Yathartha Shrestha</h2>
 <h4 align="left">🌟I am currently pursuing a Bachelor's degree in Computer Science, where I am actively enhancing my programming skills through hands-on projects and coursework. Alongside my academic journey, I am also exploring various domains within the IT industry—including software development, artificial intelligence, data science, and web technologies—to gain a well-rounded understanding of the tech landscape and identify the areas I’m most passionate about. </h4>
 
-<img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/2.gif" width="1920" height=0.4/>
+<img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/2.gif" width="1920" />
 <div>
 
 
