@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/gooncat.gif"  width = "100" />
+<img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/react.gif"  width = "50" />
 </div>
 
 
