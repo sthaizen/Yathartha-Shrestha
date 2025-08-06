@@ -13,7 +13,7 @@
 
 
 
-<h2>🛠️ Languages & tools I Have Placed My Hands On</h2>
+<h2  align="center">🛠️ Languages & tools I Have Placed My Hands On</h2>
 
 <div align="center">
 
