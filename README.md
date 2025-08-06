@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=bootstrap,js,java,python,react,typescript,mongodb,IntelliJ,eclips,notion,mysql,html,css,git,github,C++,tailwind,photoshop,aftereffect,premierpro,framer,aws,figma&theme=dark" width="600"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,js,java,python,react,typescript,mongodb,express,nodejs,IntelliJ,eclipse,notion,mysql,html,css,git,github,cpp,tailwind,photoshop,ae,premierpro,anaconda,blender,framer,aws,figma&theme=dark" width="600"/>
 
 </div>
 
