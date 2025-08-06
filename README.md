@@ -13,7 +13,7 @@
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/201194734-44c276f6-f9f7-4110-a689-687c3c23ec42.gif" width="30"> Tech Stacks
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Tech Stacks
 
 <div align="center">
 
