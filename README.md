@@ -22,8 +22,6 @@
 </div>
 
 <br>
-<br>
-
 
 <h2  align="center">💻 Tech Stack:</h2>
 
@@ -45,6 +43,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   
 </p>
+
 <br>
 
 <h2  align="center">📊 GitHub Stats</h2>
@@ -54,7 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=tokyonight" alt="Top Languages" />
  
 </p>
+
 <br>
+
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
