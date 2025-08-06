@@ -13,21 +13,29 @@
 
 
 
-<h3>🛠️ Languages & tools I Have Placed My Hands On</h3>
+<h2>🛠️ Languages & tools I Have Placed My Hands On</h2>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,js,java,python,react,typescript,mongodb,express,nodejs,eclipse,notion,mysql,html,css,git,github,cpp,bootstrap,tailwind,photoshop,ae,pr,blender,aws,stackoverflow,linux,figma&theme=dark" width="800"/>
 
 </div>
-<h3>📊 GitHub Stats</h3>
+
+<br>
+<br>
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sthaizen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=tokyonight" alt="Top Languages" />
  
 </p>
-<h3>💻 Tech Stack:</h>
+
+<br>
+<br>
+
+<h2>💻 Tech Stack:</h2>
 
 <p align="center">
   <br>
