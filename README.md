@@ -56,16 +56,7 @@
 
 <br>
 
-### 🏆 Top Contributed Repos
 
-| Repository     | Grade |
-|----------------|-------|
-| WatchStore     | A     |
-| InventorySys   | A     |
-| PortfolioSite  | B     |
-| BlogEngine     | B     |
-
----
 
 ### 💬 Random Dev Quote
 
@@ -74,13 +65,6 @@
 
 ---
 
-### ☕ Support Me
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
-
----
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
