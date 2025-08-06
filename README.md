@@ -3,6 +3,10 @@
 
 
 
+https://github.com/user-attachments/assets/1d3a8ea6-85d9-4cb0-98a5-eb3507b9dc48
+
+
+
 - 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **React**
@@ -26,7 +30,7 @@
 <h2  align="center">💻 Tech Stack:</h2>
 
 <p align="center">
-  <br>
+  <br>  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
