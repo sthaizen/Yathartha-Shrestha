@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yathartha Shrestha</h1>
 <h3 align="center">A UI/Ux, frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sthaizen" alt="sthaizen" /></a> </p>
+
 
 - 🌱 I’m currently learning **NodeJS**
 
@@ -23,6 +23,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,python,django,react,typescript,mongodb,mysql,azure,figma&theme=dark" width="800"/>
+<img src="https://skillicons.dev/icons?i=js,java,python,react,typescript,mongodb,mysql,figma&theme=dark" width="800"/>
 
 </div>
