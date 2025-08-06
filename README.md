@@ -25,7 +25,7 @@
 <br>
 
 
-<h2>💻 Tech Stack:</h2>
+<h2  align="center">💻 Tech Stack:</h2>
 
 <p align="center">
   <br>
@@ -46,7 +46,7 @@
   
 </p>
 
-<h2>📊 GitHub Stats</h2>
+<h2  align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sthaizen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -55,8 +55,8 @@
 </p>
 <br>
 <p align="center">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/sthaaizen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yathartha-shrestha-2a5a87371" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.com/sthaaizen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github"  alt="github" height="30" width="40" /></a>
