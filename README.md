@@ -66,5 +66,6 @@
 <a href="https://www.linkedin.com/in/yathartha-shrestha-2a5a87371" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.com/sthaaizen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github"  alt="github" height="30" width="40" /></a>
 </p>
+</p>
 
 
