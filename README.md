@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="50" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sthaaizen/" target="_blank">
+<a href="https://www.linkedin.com/in/sthaaizen/" >
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="40" />
 </a>
 &nbsp;&nbsp;
