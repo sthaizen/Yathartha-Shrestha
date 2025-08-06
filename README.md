@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/gooncat.gif"  width = "100" "/>
+<img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/gooncat.gif"  width = "100" />
 </div>
 
 
 
 <div align="center">
 
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/b4a7dbb7-2e7d-4f9d-8954-223cc94468c1)
+<img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/Main.gif" />
 
 </div>
 
@@ -96,7 +96,8 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/5.gif"  width = "200"/>
-</div
+</div>
+<br>
 <p>⚠️ This README is  designed by <strong>Me</strong>.
 
 
