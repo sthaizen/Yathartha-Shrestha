@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="50" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/rc_2555/" target="_blank">
+<a href="https://www.instagram.com/rc_2555/" >
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="40" />
 </a>
 
