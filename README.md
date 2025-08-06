@@ -20,9 +20,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,js,java,python,react,typescript,mongodb,express,nodejs,eclipse,notion,mysql,html,css,git,github,cpp,bootstrap,tailwind,photoshop,ae,pr,blender,aws,stackoverflow,linux,figma&theme=dark" width="800"/>
 
 </div>
-<br>
-<br>
-<br>
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -30,8 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=tokyonight" alt="Top Languages" />
  
 </p>
-<br>
-<br>
 ### 💻 Tech Stack:
 
 <p align="center">
@@ -52,13 +47,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   
 </p>
-
-<br>
-<br>
-<br>
-
-
-
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
