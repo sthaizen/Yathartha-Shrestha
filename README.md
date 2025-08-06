@@ -31,10 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=tokyonight" alt="Top Languages" />
  
 </p>
-
-<br>
-<br>
-
 <h2>💻 Tech Stack:</h2>
 
 <p align="center">
