@@ -13,7 +13,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Language & Tools that i have placed My Hands On
+### 🛠️ Languages & tools I Have Placed My Hands On
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 </div>
 
 
-### 🛠️ Languages & tools I Have Placed My Hands On
+<h3 align="left">Connect with me:</h3>
 
 
 <div align="center">
