@@ -1,60 +1,31 @@
 <h1 align="center">Hi 👋, I'm Yathartha Shrestha</h1>
-<h3 align="center">A UI/Ux, frontend developer</h3>
 
 
 
-https://github.com/user-attachments/assets/1d3a8ea6-85d9-4cb0-98a5-eb3507b9dc48
+<div align="center">
 
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/b4a7dbb7-2e7d-4f9d-8954-223cc94468c1)
 
-
-- 🌱 I’m currently learning **NodeJS**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **sthayathartha234@gmail.com**
-
-- ⚡ Fun fact **I write code like I cook — a little bit of chaos, a lot of creativity, and somehow... it works! 🍜💻**
-
-
+</div>
+<br>
 
 <h2  align="center">🛠️ Languages & tools I Have Placed My Hands On</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,js,java,python,react,typescript,mongodb,express,nodejs,eclipse,notion,mysql,html,css,git,github,cpp,bootstrap,tailwind,photoshop,ae,pr,blender,aws,stackoverflow,linux,figma&theme=dark" width="800"/>
+<img src="https://skillicons.dev/icons?i=vscode,js,java,python,react,typescript,mongodb,express,nodejs,eclipse,notion,mysql,html,css,git,github,cpp,bootstrap,tailwind,photoshop,ae,pr,blender,aws,stackoverflow,linux,figma&theme=dark" width="900"/>
 
 </div>
 
 <br>
 
-<h2  align="center">💻 Tech Stack:</h2>
 
-<p align="center">
-  <br>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  
-</p>
-
-<br>
 
 <h2  align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthaizen&show_icons=true&theme=tokyonight&border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=tokyonight" alt="Top Languages" />
+   <img width="398" src="https://github-readme-stats.vercel.app/api?username=sthaizen&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=sthaizen&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
  
 </p>
 
@@ -78,5 +49,11 @@ https://github.com/user-attachments/assets/1d3a8ea6-85d9-4cb0-98a5-eb3507b9dc48
 <a href="https://github.com/sthaaizen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github"  alt="github" height="30" width="40" /></a>
 </p>
 </p>
+
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
 
 
