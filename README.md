@@ -25,7 +25,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sthaizen&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sthaizen&theme=dark" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
