@@ -22,33 +22,10 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-
-
-<div align="center">
-
-<a href="https://twitter.com/sthaaizen" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="20" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sthaaizen/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="20" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/sthaaizen" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="20" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/rc_2555/" >
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="20" />
-</a>
-
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/YOUR_USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://twitter.com/sthaaizen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yathartha-shrestha-2a5a87371" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/sthaaizen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
 </p>
