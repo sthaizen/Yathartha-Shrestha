@@ -24,13 +24,7 @@
 <br>
 <br>
 
-<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthaizen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=tokyonight" alt="Top Languages" />
- 
-</p>
 <h2>💻 Tech Stack:</h2>
 
 <p align="center">
@@ -51,6 +45,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   
 </p>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sthaizen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=tokyonight" alt="Top Languages" />
+ 
+</p>
+<br>
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
