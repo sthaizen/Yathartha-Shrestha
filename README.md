@@ -13,7 +13,7 @@
 
 
 
-### 🛠️ Languages & tools I Have Placed My Hands On
+<h2>🛠️ Languages & tools I Have Placed My Hands On</h2>
 
 <div align="center">
 
@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthaizen&layout=compact&theme=tokyonight" alt="Top Languages" />
  
 </p>
-### 💻 Tech Stack:
+<h2>💻 Tech Stack:</h2>
 
 <p align="center">
   <br>
