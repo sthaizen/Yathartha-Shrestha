@@ -13,7 +13,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Tech Stacks
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Language & Tools that i have placed My Hands On
 
 <div align="center">
 
@@ -22,7 +22,8 @@
 </div>
 
 
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"> Connect with Me
+### 🛠️ Languages & tools I Have Placed My Hands On
+
 
 <div align="center">
 
