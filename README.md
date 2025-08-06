@@ -9,17 +9,6 @@
 </div>
 <br>
 
-<h2  align="center">🛠️ Languages & tools I Have Placed My Hands On</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,js,java,python,react,typescript,mongodb,express,nodejs,eclipse,notion,mysql,html,css,git,github,cpp,bootstrap,tailwind,photoshop,ae,pr,blender,aws,stackoverflow,linux,figma&theme=dark" width="900"/>
-
-</div>
-
-<br>
-
-
 
 <h2  align="center">📊 GitHub Stats</h2>
 
@@ -30,6 +19,20 @@
 </p>
 
 <br>
+
+<h2  align="center">🛠️ Languages & tools I Have Placed My Hands On</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,js,java,python,react,typescript,mongodb,express,nodejs,eclipse,notion,mysql,html,css,git,github,cpp,bootstrap,tailwind,photoshop,ae,pr,blender,aws,stackoverflow,linux,figma&theme=dark" width="600"/>
+
+</div>
+
+<br>
+
+
+
+
 
 
 
