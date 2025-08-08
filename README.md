@@ -98,6 +98,6 @@
 <img src="https://raw.githubusercontent.com/sthaizen/Yathartha-Shrestha/main/Image/5.gif"  width = "200"/>
 </div>
 <br>
-<p>⚠️ This README is  designed by <strong>Me</strong>.
+
 
 
